@@ -54106,7 +54106,7 @@ P(a){return new A.pL(new A.pd(null),"PWA In-App Browser Example",null)}}
 A.pd.prototype={
 lw(){var s=0,r=A.Q(t.H),q
 var $async$lw=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:q=A.hs("https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhb[\u2026]gcur6Fq4R1N4D49GdobCRsssI9kT0Sq7wsFqRYMUtUfudI0o",0,null)
+while(true)switch(s){case 0:q=A.hs("https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjU1YTNhNiIsImhhc2giOiIxZjQxMzU0ODhhNjc0OWU3OTFjMTA0MTRlNTQyYTU4MWY1MTU4YmI1NmU4ZDE2YWE0YzY2YmU1ZTY5MWY4YjlhIiwiaWF0IjoxNzMwMTExNTUxLCJleHAiOjE3MzAxMTQ1NTEsImp0aSI6ImVkMTY4NGVkLTViOTktNGQyYS1iMGJkLWQ5ZTg5MzhlYzI2MSJ9.GQiy5B8OpGESJ_jbMhp4551p0_Lzm-vZTDZzC4fykdXT71tltQvWUSy2M6TNLLtwTNXbKL2Xdo6t39mUwoGWfqAwFQtsuUCgxenPXRV0nuUEeN3zJQ6kRidUAqMgcur6Fq4R1N4D49Gdob",0,null)
 s=5
 return A.U(A.a1_(q),$async$lw)
 case 5:s=b?2:4
@@ -54115,7 +54115,7 @@ case 2:s=6
 return A.U(A.a1g(q,B.j3),$async$lw)
 case 6:s=3
 break
-case 4:throw A.e("Could not launch https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhb[\u2026]gcur6Fq4R1N4D49GdobCRsssI9kT0Sq7wsFqRYMUtUfudI0o")
+case 4:throw A.e("Could not launch https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjU1YTNhNiIsImhhc2giOiIxZjQxMzU0ODhhNjc0OWU3OTFjMTA0MTRlNTQyYTU4MWY1MTU4YmI1NmU4ZDE2YWE0YzY2YmU1ZTY5MWY4YjlhIiwiaWF0IjoxNzMwMTExNTUxLCJleHAiOjE3MzAxMTQ1NTEsImp0aSI6ImVkMTY4NGVkLTViOTktNGQyYS1iMGJkLWQ5ZTg5MzhlYzI2MSJ9.GQiy5B8OpGESJ_jbMhp4551p0_Lzm-vZTDZzC4fykdXT71tltQvWUSy2M6TNLLtwTNXbKL2Xdo6t39mUwoGWfqAwFQtsuUCgxenPXRV0nuUEeN3zJQ6kRidUAqMgcur6Fq4R1N4D49Gdob")
 case 3:return A.O(null,r)}})
 return A.P($async$lw,r)},
 P(a){var s=null,r=A.a51("PWA In-App Browser Example")

@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
 
 class HomeScreen extends StatelessWidget {
   // Test
-  final String url = 'https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhb[…]gcur6Fq4R1N4D49GdobCRsssI9kT0Sq7wsFqRYMUtUfudI0o';
+  final String url = 'https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjU1YTNhNiIsImhhc2giOiIxZjQxMzU0ODhhNjc0OWU3OTFjMTA0MTRlNTQyYTU4MWY1MTU4YmI1NmU4ZDE2YWE0YzY2YmU1ZTY5MWY4YjlhIiwiaWF0IjoxNzMwMTExNTUxLCJleHAiOjE3MzAxMTQ1NTEsImp0aSI6ImVkMTY4NGVkLTViOTktNGQyYS1iMGJkLWQ5ZTg5MzhlYzI2MSJ9.GQiy5B8OpGESJ_jbMhp4551p0_Lzm-vZTDZzC4fykdXT71tltQvWUSy2M6TNLLtwTNXbKL2Xdo6t39mUwoGWfqAwFQtsuUCgxenPXRV0nuUEeN3zJQ6kRidUAqMgcur6Fq4R1N4D49Gdob';
 
   void _launchURL() async {
     final Uri uri = Uri.parse(url);
