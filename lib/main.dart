@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
 }
 
 class HomeScreen extends StatelessWidget {
+  // Test
   final String url = 'https://amplify-test.dm0robqee5xgy.amplifyapp.com/demo/onlyHyperKYC.html?authToken=Bearer%20eyJhb[…]gcur6Fq4R1N4D49GdobCRsssI9kT0Sq7wsFqRYMUtUfudI0o';
 
   void _launchURL() async {
